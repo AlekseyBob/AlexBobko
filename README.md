@@ -58,3 +58,7 @@
 * Триггер (событие, стартующее прецедент): Распроряжение о создание сайта
 * Номинальная частота повторения прецедент: 1 раз в 3 года
 * Продолжительность прецедента: 10 месяцев
+
+### Лаба 2. UML Class
+![UML Class](http://www.plantuml.com/plantuml/png/VS-z2i8m4C3nFKznemuTR7Kf3WL5T7PoJCtH1fCBf5S7FzxTM49jAtG9t1_ouwveM7fkhH5N8vi6ZexHm5C0dDbhga19bc6wEwt08jTEhHRBSKX3U8i8x8n6uau0aXRp27tdKdkk0nZYFhm28bCwTniQbzRFCPeeXnCnKeL-iih_ScbNuASVz6D67tpDrbCis_HO9BQl91c8ezoV8GearLhp0G00
+)
